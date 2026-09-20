@@ -3,7 +3,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
   http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-  <modelVersion>4.0.0</modelversion>
+  <modelVersion>4.0.0</modelVersion>
 
     <groupID>com.bits</groupID>
     <artifactID>2022wb86871</artifactID>
